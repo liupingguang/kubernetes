@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kubernetes-apiserver-amd64:v1.9.x
+FROM gcr.io/google_samples/gb-redisslave:v1
 MAINTAINER liupingguang
